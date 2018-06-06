@@ -1,0 +1,19 @@
+body            { font-family: sans-serif; background-color: #333333; background-image: url('https://previews.123rf.com/images/snowing/snowing1504/snowing150400420/38919440-selected-focus-empty-brown-wooden-table-and-coffee-shop-blur-background-with-bokeh-image.jpg')}
+ h1, h2, h3, h4       { color: #CCCCCC; }
+h1, h2          { font-family: 'Georgia', serif; margin: 0; }
+h1              { border-bottom: 2px solid #eee; padding:0px }
+
+
+p               { color: #CCCCCC;}
+.links {text-decoration: none; color:#FFFFCC; font-size: .75em;}
+
+.restnames {text-decoration:none; color: #CCCCCC; font-size:1.5em;}
+.pane {position:absolute; left: 25%; border: 2px solid;
+    border-radius: 25px; padding-right: 75px;padding-left: 5px; padding-bottom: 50px;margin: 5px; border-color: #999999; background-color: #333333; }
+.header         {left:50%; text-align: center;}
+.name {width:50%;display: inline-block; float: left;}
+.description {}
+.price {text-align: right; width:50%; float: right; }
+.editdeletepane{}
+
+.flash          { background: #cee5F5; }
